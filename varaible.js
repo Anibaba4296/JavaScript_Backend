@@ -177,3 +177,5 @@ try {
 }
 console.log(d);
 console.log(e);
+
+const k1 = Symbol("First name");
